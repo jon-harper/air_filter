@@ -1,0 +1,72 @@
+site_name: air_filter
+site_description: Documentation for Clockmaker Filter.
+site_author: Jon Harper
+site_url: https://jon-harper.github.io/air_filter
+repo_url: https://github.com/jon-harper/air_filter
+repo_name: "GitHub: jon-harper/air_filter"
+edit_uri: ""
+copyright: Copyright &copy; 2023 Jonathan Harper
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - abbr
+  - def_list
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.footer
+    - navigation.expand
+    - toc.integrate
+    - toc.follow
+  icon:
+    logo: material/air-filter
+  font:
+    text: Noto Sans
+  palette: 
+    - scheme: slate
+      primary: cyan
+      accent: orange
+      toggle:
+        icon: material/lightbulb-off-outline
+        name: Switch to light mode
+    - scheme: default
+      primary: cyan
+      accent: orange
+      toggle:
+        icon: material/lightbulb-on
+        name: Switch to dark mode
+
+extra:
+  social:
+    - icon: simple/kofi
+      link: https://ko-fi.com/jonspaceharper
+      name: "Buy me a Ko-Fi!"
+    - icon: material/home
+      link: https://jon-harper.github.io/
+      name: "jonspaceharper's Homepage"
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+plugins:
+  - search
+
+nav:
+  - index.md
