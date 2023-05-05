@@ -14,11 +14,11 @@ The filter can be printed with one fan for filtration only, or with two fans for
 
 | Part | Qty |
 |------|-----|
-| Radial 75mm x 30mm fan | 1 |
+| [Radial 75mm x 30mm fan](https://www.amazon.com/dp/B08NCMY3H5) | 1 |
 | [Moosoo XL-618A HEPA Filter](https://www.amazon.com/gp/product/B08JPDWQCL) | 1 |
 | M3 x 35mm SHCS | 2 |
 | M3 x 6mm SHCS | 20 |
-| Heat set inserts, M3 x 5mm x 4mm | 22 |
+| [Heat set inserts, M3 x 5mm x 4mm](https://www.amazon.com/uxcell-Knurled-Insert-Female-Embedding/dp/B09MCWTBCC) | 22 |
 | Acid-free activated carbon | Varies |
 | `STL/main_body.stl` | 1 |
 | `STL/simple_cap.stl` | 1 |
@@ -29,11 +29,11 @@ The filter can be printed with one fan for filtration only, or with two fans for
 
 | Part | Qty |
 |------|-----|
-| Radial 75mm x 30mm fan | 2 |
+| [Radial 75mm x 30mm fan](https://www.amazon.com/dp/B08NCMY3H5) | 2 |
 | [Moosoo XL-618A HEPA Filter](https://www.amazon.com/gp/product/B08JPDWQCL) | 1 |
 | M3 x 35mm SHCS | 4 |
 | M3 x 6mm SHCS | 20 |
-| Heat set inserts, M3 x 5mm x 4mm | 24 |
+| [Heat set inserts, M3 x 5mm x 4mm](https://www.amazon.com/uxcell-Knurled-Insert-Female-Embedding/dp/B09MCWTBCC) | 24 |
 | Acid-free activated carbon | Varies |
 | `STL/main_body.stl` | 1 |
 | `STL/fan_cap.stl` | 1 |
