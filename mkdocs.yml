@@ -40,18 +40,18 @@ theme:
   font:
     text: Noto Sans
   palette: 
-    - scheme: slate
-      primary: cyan
-      accent: orange
-      toggle:
-        icon: material/lightbulb-off-outline
-        name: Switch to light mode
     - scheme: default
-      primary: cyan
+      primary: light blue
       accent: orange
       toggle:
         icon: material/lightbulb-on
         name: Switch to dark mode
+    - scheme: slate
+      primary: light blue
+      accent: orange
+      toggle:
+        icon: material/lightbulb-off-outline
+        name: Switch to light mode
 
 extra:
   social:
