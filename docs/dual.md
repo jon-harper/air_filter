@@ -17,7 +17,7 @@ hide: toc
 | [Heat set inserts, M3 x 5mm x 4mm][bom_inserts]   | 24 |
 | Acid-free activated carbon                        | Varies |
 | [`main_body.stl`][stl_main_body]                  | 1 |
-| [`fan_cap.stl`][fan_cap]                          | 1 |
-| [`fan_base.stl`][fan_base]                        | 1 |
-| [`filter_base.stl`][stl_filter_base]                  | 2 |
-| [`filter_cover.stl`][stl_filter_cover]                | 2 |
+| [`fan_cap.stl`][stl_fan_cap]                      | 1 |
+| [`fan_base.stl`][stl_fan_base]                    | 1 |
+| [`filter_base.stl`][stl_filter_base]              | 2 |
+| [`filter_cover.stl`][stl_filter_cover]            | 2 |
