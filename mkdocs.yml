@@ -24,16 +24,16 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.snippets:
+      auto_append: 
+        - include/links.md
 
 theme:
   name: material
   features:
     - navigation.instant
-    # - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.footer
     - navigation.expand
-    - toc.integrate
     - toc.follow
   icon:
     logo: material/air-filter
@@ -70,3 +70,7 @@ plugins:
 
 nav:
   - index.md
+  - Bill of Materials:
+    - single.md
+    - dual.md
+  - inserts.md
