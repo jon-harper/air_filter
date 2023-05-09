@@ -6,9 +6,9 @@ date: 2023-5-5
 hide: toc
 ---
 
-This is a combination activated carbon and HEPA filter for 3D printing. It uses 75x30mm radial fans to draw air through a wall of activated carbon pellets and a HEPA filter.
+This is a combination activated carbon and HEPA filter for 3D printing. It uses 75x30mm radial fans to draw air first through a wall of activated carbon pellets and then through a HEPA filter.
 
-The filter can be printed with one fan for filtration only, or with a second fan to provide chamber exhaust or additional airflow.
+The filter can be printed with either one or two fans. The second fan can be used to provide additional airflow or act as a controlled chamber exhaust fan.
 
 A method of mounting the filter to 2020 extrusions is coming soon.
 
@@ -21,3 +21,5 @@ A method of mounting the filter to 2020 extrusions is coming soon.
 ## Assembly
 
 [Heat Set Insert Locations](inserts.md){ .md-button }
+
+[Assembly Steps](assembly.md){ .md-button }
