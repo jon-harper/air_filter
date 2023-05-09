@@ -2,6 +2,7 @@
 [bom_hepa]: https://www.amazon.com/gp/product/B08JPDWQCL
 [bom_inserts]: https://www.amazon.com/uxcell-Knurled-Insert-Female-Embedding/dp/B09MCWTBCC
 [bom_tubing]: https://www.amazon.com/DMiotech-Silicone-Translucent-Industrial-Tubing/dp/B0B59F8WCW
+[bom_carbon]: https://www.amazon.com/dp/B00XIIDB8Y/
 
 [stl_main_body]:  https://github.com/jon-harper/air_filter/blob/main/STL/main_body.stl
 [stl_exhaust_coupler]: https://github.com/jon-harper/air_filter/blob/main/STL/exhaust_coupler.stl

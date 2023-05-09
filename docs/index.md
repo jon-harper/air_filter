@@ -27,13 +27,13 @@ The filter can be printed with either one or two fans. The second fan can be use
 
 A method of mounting the filter to 2020 extrusions is coming soon.
 
-[Single Fan](single.md){ .md-button }
+[Single Fan BOM](single.md){ .md-button }
 
-[Dual Fan](dual.md){ .md-button }
+[Dual Fan BOM](dual.md){ .md-button }
 
 ## Assembly
 
-Print SUAFT with ASA, ABS, or PETG. If your chamber regularly reaches 60C, ASA is recommended.
+Print SUAFT with ASA, ABS, or PETG. If your enclosure regularly reaches 60C, ASA is recommended.
 
 [Heat Set Insert Locations](inserts.md){ .md-button }
 

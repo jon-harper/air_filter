@@ -1,5 +1,5 @@
 ---
-title: Dual Fan
+title: Dual Fan BOM
 summary: Information on the dual fan variation.
 authors: Jon Harper
 date: 2023-5-7
@@ -17,7 +17,7 @@ hide: toc
 | M3 x 35mm SHCS                                    | 4 ea |
 | M3 x 6mm SHCS                                     | 20 ea |
 | [Heat set inserts, M3 x 5mm x 4mm][bom_inserts]   | 24 ea |
-| Acid-free activated carbon                        | Varies |
+| [Acid-free coconut shell activated carbon][bom_carbon] | < 0.5kg/1lb |
 | [`main_body.stl`][stl_main_body]                  | 1 ea |
 | [`fan_cap.stl`][stl_fan_cap]                      | 1 ea |
 | [`fan_base.stl`][stl_fan_base]                    | 1 ea |
