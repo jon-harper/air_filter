@@ -41,18 +41,18 @@ theme:
   font:
     text: Noto Sans
   palette: 
-    - scheme: default
-      primary: light blue
-      accent: orange
-      toggle:
-        icon: material/lightbulb-on
-        name: Switch to dark mode
     - scheme: slate
       primary: light blue
       accent: orange
       toggle:
         icon: material/lightbulb-off-outline
         name: Switch to light mode
+    - scheme: default
+      primary: light blue
+      accent: orange
+      toggle:
+        icon: material/lightbulb-on
+        name: Switch to dark mode
 
 extra:
   social:
@@ -71,8 +71,7 @@ plugins:
 
 nav:
   - index.md
-  - Bill of Materials:
-    - single.md
-    - dual.md
+  - single.md
+  - dual.md
   - inserts.md
   - assembly.md
