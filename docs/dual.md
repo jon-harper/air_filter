@@ -6,6 +6,8 @@ date: 2023-5-7
 hide: toc
 ---
 
+![preview](assets/img/gallery/dual_filter.png)
+
 ## Materials
 
 | Part | Qty |
@@ -21,3 +23,4 @@ hide: toc
 | [`fan_base.stl`][stl_fan_base]                    | 1 |
 | [`filter_base.stl`][stl_filter_base]              | 2 |
 | [`filter_cover.stl`][stl_filter_cover]            | 2 |
+| [`exhaust_coupler.stl`][stl_exhaust_coupler]      | 1 (Optional) |
