@@ -70,8 +70,13 @@ plugins:
   - search
 
 nav:
-  - index.md
-  - single.md
-  - dual.md
-  - inserts.md
-  - assembly.md
+  - V2:
+    - v2/index.md
+    - v2/bom.md
+    - v2/assembly.md
+  - V1:
+    - v1/index.md
+    - v1/single.md
+    - v1/dual.md
+    - v1/inserts.md
+    - v1/assembly.md

@@ -2,7 +2,7 @@
 title: Dual Fan BOM
 summary: Information on the dual fan variation.
 authors: Jon Harper
-date: 2023-5-7
+date: 2024-7-31
 hide: toc
 ---
 
