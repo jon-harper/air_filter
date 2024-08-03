@@ -6,7 +6,7 @@ date: 2024-7-31
 hide: toc
 ---
 
-![preview](../assets/img/gallery/V2/ac.png)
+![preview](../assets/img/gallery_v2/ac.png)
 
 ## Materials
 
