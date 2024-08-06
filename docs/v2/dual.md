@@ -18,12 +18,13 @@ hide: toc
 | M3 x 6mm SHCS                                     | 10 ea |
 | [6mm x 3mm magnets][bom_magnet]                   | 24    |
 | [Heat set inserts, M3 x 5mm x 4mm][bom_inserts]   | 14 ea |
-| [Acid-free coconut shell activated carbon][bom_carbon] | < 0.5kg/1lb |
-| :material-printer-3d-nozzle: [`main_body.stl`][stl_main_body]                  | 1 ea |
-| :material-printer-3d-nozzle: [`fan_cap.stl`][stl_fan_cap]                      | 1 ea |
-| :material-printer-3d-nozzle: [`fan_base.stl`][stl_fan_base]                    | 1 ea |
-| :material-printer-3d-nozzle: [`filter_base.stl`][stl_filter_base]              | 2 ea |
-| :material-printer-3d-nozzle: [`filter_cover.stl`][stl_filter_cover]            | 2 ea |
+| [Acid-free coconut shell activated carbon][bom_carbon]                        | < 0.5kg/1lb |
+| :material-printer-3d-nozzle: [`HEPA Top.stl`][v2_hepa_top]                    | 1 ea |
+| :material-printer-3d-nozzle: [`HEPA Bottom.stl`][v2_bottom]                   | 1 ea |
+| :material-printer-3d-nozzle: [`Fan Base.stl`][v2_fan_lid]                     | 2 ea |
+| :material-printer-3d-nozzle: [`Fan Lid.stl`][v2_ac_lid_solo]                  | 2 ea |
+| :material-printer-3d-nozzle: [`AC Base - Solo.stl`][v2_ac_base_solo]          | 1 ea |
+| :material-printer-3d-nozzle: [`AC Lid - Solo.stl`][v2_ac_lid_solo]            | 1 ea |
 
 
 
