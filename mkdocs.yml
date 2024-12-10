@@ -70,15 +70,20 @@ plugins:
   - search
 
 nav:
-  - V2:
-    - v2/index.md
-    - v2/single.md
-    - v2/dual.md
-    - Assembly:
-      - v2/prep.md
-      - v2/fans.md
-      - v2/filter.md
-  - V1:
+  - SUAFT 120:
+    - v3/index.md
+    - v3/bom.md
+    - v3/prep.md
+    - v3/assembly.md
+  # - V2:
+  #   - v2/index.md
+  #   - v2/single.md
+  #   - v2/dual.md
+  #   - Assembly:
+  #     - v2/prep.md
+  #     - v2/fans.md
+  #     - v2/filter.md
+  - SUAFT v1:
     - v1/index.md
     - v1/single.md
     - v1/dual.md

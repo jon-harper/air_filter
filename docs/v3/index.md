@@ -1,6 +1,6 @@
 ---
-title: v2 Introduction
-summary: Landing page for the Still Unnamed Air Filter Thing
+title: SUAFT 120 Introduction
+summary: Overview of the 120mm version of SUAFT.
 authors: Jon Harper
 date: 2024-12-8
 hide: toc

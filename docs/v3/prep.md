@@ -1,5 +1,5 @@
 ---
-title: 1. Prep
+title: Preparation
 summary: Simple assembly overview
 authors: Jon Harper
 date: 2024-12-8
@@ -31,9 +31,9 @@ Step 1. Fix magnets into the six (6) highlighted locations. **It is strongly rec
 </figure>
 
 <figure markdown>
-![step 2](../assets/img/steps_v2/magnets_hepa_top1.webp){width="50%"}
+![step 2](assets/filter_magnets.png){width="50%"}
 <figcaption markdown>
-Step 2. Fix magnets into the six (6) highlighted locations. These magnets must have the same orientation as the base magnets.
+Step 2. Fix magnets into the six (6) highlighted locations. **These magnets must have the same orientation as the base magnets.**
 </figcaption>
 </figure>
 
