@@ -6,8 +6,6 @@ date: 2024-12-8
 hide: toc
 ---
 
-![preview](assets/final.png)
-
 ## Materials
 
 | Part | Qty |
