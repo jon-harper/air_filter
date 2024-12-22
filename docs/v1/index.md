@@ -18,7 +18,7 @@ SUAFT is an activated carbon and HEPA filter for 3D printer enclosures.
 3. Be cheap to source.
 </div>
 <div markdown class="jh-grid-img">
-![SUAFT](../assets/img/gallery/render.png)
+![SUAFT](assets/img/render.png)
 </div>
 </div>
 ## Bill of Materials
