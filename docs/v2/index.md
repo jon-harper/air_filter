@@ -25,14 +25,8 @@ SUAFT v2 is an activated carbon and HEPA filter for 3D printer enclosures. SUAFT
 ## Bill of Materials
 
 The filter can be printed for single or dual fan operation. Use a single fan assembly for compact printers (200x200 bed or smaller) or ones with limited free space. High flow and larger volume printers should use dual fans.
-<!-- 
-[Single Fan BOM](single.md){ .md-button }
 
-[Dual Fan BOM](dual.md){ .md-button } -->
-
-## Materials
-
-Material choice is guided by enclosure operating temperature.
+Print your SUAFT in a material suitable for your enclosures maximum temperature:
 
 - CF-ASA, CF-ABS: >80C
 - ASA: >60C
