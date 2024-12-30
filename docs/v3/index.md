@@ -24,7 +24,7 @@ SUAFT 120 is an activated carbon and HEPA filter for 3D printer enclosures. SUAF
 
 ## Bill of Materials
 
-The filter can be printed for single or dual fan operation. Use a single fan assembly for compact printers (200x200 bed or smaller) or ones with limited free space. High flow and larger volume printers should use dual fans.
+The filter can be printed for single or dual fan operation. A single fan should be used for continuous filtration. Dual fans can be used for large format printers or as an exhaust filter.
 
 [SUAFT 120 Bill of Materials](bom.md){ .md-button }
 
@@ -32,7 +32,7 @@ The filter can be printed for single or dual fan operation. Use a single fan ass
 
 Material choice is guided by enclosure operating temperature.
 
-- CF-ASA, CF-ABS: >80C
+- CF-ASA, CF-ABS: >80C, <95C
 - ASA: >60C
 - ABS: >45C. Avoid with active heaters.
 - PETG: <45C or chamber floor. PETG filters should be considered a temporary solution (expected to fail with time). Do not use with active heaters.
