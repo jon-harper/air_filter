@@ -15,6 +15,6 @@ hide: toc
 <div markdown class="jh-card">
 ## [SUAFT v1 (deprecated)](v1/index.md)
 
-![SUAFT](assets/img/gallery/render.png)
+![SUAFT](v1/assets/img/gallery/render.png)
 </div>
 </div>
