@@ -6,6 +6,10 @@ date: 2023-5-5
 hide: toc
 ---
 
+
+!!! caution
+    This project is deprecated. Visit [SUAFT 120](../v3) for the latest design.
+
 <div markdown class="jh-grid-container jh-grid-2">
 <div markdown class="jh-card">
 
